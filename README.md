@@ -1,7 +1,7 @@
 # Reto3_POO
 ### Katherine Restrepo
-####1. Crear una clase linea
-####2. Redefine the class Rectangle, adding a new method of initialization using 4 Lines (composition at its best, a rectangle is compose of 4 lines).
+1. Crear una clase linea
+2. Redefine the class Rectangle, adding a new method of initialization using 4 Lines (composition at its best, a rectangle is compose of 4 lines).
 
 ```python
 class Point:
@@ -100,7 +100,7 @@ class Rectangle:
 ```
 
 
-####Restaurant scenario: You want to design a program to calculate the bill for a customer's order in a restaurant.
+Restaurant scenario: You want to design a program to calculate the bill for a customer's order in a restaurant.
 Create a class diagram with all classes and their relationships.
 
 ```mermaid
